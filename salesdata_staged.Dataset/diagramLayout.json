@@ -1,0 +1,139 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 697.39441703188572,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 149.450776227985,
+            "y": 514.41306821541571
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "fac1f49d-c192-4954-aa1b-304f9ad276c6",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Category",
+          "nodeLineageTag": "68001544-2e70-4ad1-a5b0-0dcde99b97c4",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 754.13731773337577,
+            "y": 0
+          },
+          "nodeIndex": "Customers",
+          "nodeLineageTag": "1f018eec-a69c-4693-8e03-0350410bb814",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1448.0925009199912,
+            "y": 232.78117627943442
+          },
+          "nodeIndex": "Flags",
+          "nodeLineageTag": "3782559c-1181-489a-a4d7-4be7ab77f458",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1328.4901298394018,
+            "y": 453.94498572008672
+          },
+          "nodeIndex": "Geography",
+          "nodeLineageTag": "dd573ec9-64f0-4642-8954-f8c32ad33161",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 456.71153589944743,
+            "y": 251.67091389069668
+          },
+          "nodeIndex": "Products",
+          "nodeLineageTag": "f6aa5c98-1db2-49b9-a65b-e7d07a32155f",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 737.79841343993269,
+            "y": 420.524347181855
+          },
+          "nodeIndex": "Sales",
+          "nodeLineageTag": "61b655f4-1165-4c81-a9a1-9d80d5fc4f90",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 188.89874321696385,
+            "y": 161.23775768556339
+          },
+          "nodeIndex": "Subcategory",
+          "nodeLineageTag": "62e86939-60a3-4f56-82d3-7a94d8169ce0",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1732.0925009199912,
+            "y": 308.26217359092749
+          },
+          "nodeIndex": "DAX Measures",
+          "nodeLineageTag": "1b939326-a7c1-4fe7-88f9-a857e9435448",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 87.277252605807675,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
